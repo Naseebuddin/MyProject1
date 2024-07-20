@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
-      <Text>GitHUb</Text>
+      <Text>GitHUb my Project</Text>
     </View>
   )
 }
